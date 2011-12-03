@@ -3,7 +3,7 @@
 
 #include "common.h"
 
-#include "index.h"
+#include <index.h>
 
 #define _INDEXINGBASICS_STORE_FLAG_II_THEADER 0x11
 #define _INDEXINGBASICS_STORE_FLAG_II_TBODYENTRY 0x12

@@ -1,6 +1,6 @@
 #include <alisttpl.h>
 
-#include "index.h"
+#include <index.h>
 
 
 typedef struct _idmap_entry	{
